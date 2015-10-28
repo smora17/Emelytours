@@ -21,6 +21,7 @@ If you need support or want to help developing please visit the [official wiki](
 [![Gitter chat](https://badges.gitter.im/InvoicePlane/InvoicePlane.png)](https://gitter.im/InvoicePlane/InvoicePlane)   
 [![Freenode](https://invoiceplane.com/content/badges/badge_freenode.png)](irc://irc.freenode.net/InvoicePlane)
 
+
 ---
   
 *Please notice: The name 'InvoicePlane' and the InvoicePlane logo are both copyright by Kovah.de and InvoicePlane.com
